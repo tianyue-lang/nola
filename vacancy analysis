@@ -1,7 +1,0 @@
-# Import the libraries and modules we need
-import pandas as pd
-from census import Census
-
-# Initialize the Census Data API connection with your API key
-api_key = 'ae5d54afad3e703dcca201ed73533895bab9661c'
-c = Census(key=api_key)
